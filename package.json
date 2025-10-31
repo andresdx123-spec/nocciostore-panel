@@ -1,0 +1,11 @@
+{
+  "name": "nocciostore-panel",
+  "version": "1.0.0",
+  "description": "Panel de control profesional para NoccioStore",
+  "scripts": {
+    "build": "echo 'Build completo'"
+  },
+  "keywords": ["dashboard", "admin", "nocciostore"],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
